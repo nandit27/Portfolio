@@ -1,0 +1,16 @@
+{
+  "name": "Nandit Kalaria Portfolio",
+  "short_name": "Nandit Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0E0C",
+  "theme_color": "#0E0E0C",
+  "description": "Portfolio website of Nandit Kalaria, Frontend Developer and Designer.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
