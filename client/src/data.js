@@ -526,12 +526,8 @@ export const projects = [
   "year": "2025",
   "tools": [
     "React",
-    "Tailwind CSS",
-    "Framer Motion",
-    "Zod",
     "TanStack Query",
     "Google Forms API",
-    "Google OAuth",
     "Groq",
   ],
   "image": autoformgeneratorImg,
