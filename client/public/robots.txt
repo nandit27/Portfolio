@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://portfolio-virid-six-33.vercel.app/sitemap.xml
-Host: https://nikunjmathur.vercel.app
+Host: https://portfolio-virid-six-33.vercel.app/

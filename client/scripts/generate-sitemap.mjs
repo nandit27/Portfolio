@@ -4,7 +4,7 @@ import { resolve } from "node:path";
 const root = resolve(process.cwd());
 const dataPath = resolve(root, "src/data.js");
 const sitemapPath = resolve(root, "public/sitemap.xml");
-const baseUrl = "https://nikunjmathur.vercel.app";
+const baseUrl = "https://portfolio-virid-six-33.vercel.app/";
 
 const dataSource = readFileSync(dataPath, "utf8");
 const slugMatches = [...dataSource.matchAll(/slug:\s*"([^"]+)"/g)];
