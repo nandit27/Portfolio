@@ -234,11 +234,11 @@ export default function ProjectPage() {
         <meta property="og:description" content={project.description} />
         <meta property="og:type" content="article" />
         <meta property="og:url" content={`${siteConfig.url}/projects/${project.slug}`} />
-        <meta property="og:image" content="https://nikunjmathur.vercel.app/og-image.png" />
+        <meta property="og:image" content="https://portfolio-virid-six-33.vercel.app/og-image.png" />
         <meta property="og:image:alt" content={`${project.name} project preview`} />
         <meta name="twitter:title" content={`${project.name} | ${siteConfig.name}`} />
         <meta name="twitter:description" content={project.description} />
-        <meta name="twitter:image" content="https://nikunjmathur.vercel.app/og-image.png" />
+        <meta name="twitter:image" content="https://portfolio-virid-six-33.vercel.app/og-image.png" />
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
@@ -252,7 +252,7 @@ export default function ProjectPage() {
                 "dateCreated": project.year,
                 "keywords": project.tools.join(", "),
                 "url": `${siteConfig.url}/projects/${project.slug}`,
-                "image": "https://nikunjmathur.vercel.app/og-image.png"
+                "image": "https://portfolio-virid-six-33.vercel.app/og-image.png"
               },
               {
                 "@type": "BreadcrumbList",
