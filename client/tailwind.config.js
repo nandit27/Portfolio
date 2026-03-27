@@ -27,6 +27,7 @@ export default {
       },
       fontFamily: {
         'general': ['GeneralSans-Variable', 'sans-serif'],
+        'general-static': ['GeneralSans-Static', 'sans-serif'],
         'grotesk': ['CabinetGrotesk-Variable', 'sans-serif'],
       },
       colors: {

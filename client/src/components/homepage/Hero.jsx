@@ -58,7 +58,7 @@ export default function Hero() {
           </h1>
         </div>
         <div className=" title 2xl:py-16">
-        <h1 ref={(el) => (titles.current[1] = el)} className="translate-y-96 font-outline-3 md:font-outline-4 text-transparent overflow-visible">
+        <h1 ref={(el) => (titles.current[1] = el)} className="translate-y-96 font-general-static font-outline-3 md:font-outline-4 text-transparent overflow-visible">
             Hey, I'm Nandit
           </h1>
         </div>

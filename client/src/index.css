@@ -31,6 +31,13 @@
     font-display: swap;
     font-style: normal;
   }
+  @font-face {
+    font-family: 'GeneralSans-Static';
+    src: url('https://cdn.fontshare.com/wf/KWXO5X3YW4X7OLUMPO4X24HQJGJU7E2Q/VOWUQZS3YLP66ZHPTXAFSH6YACY4WJHT/NIQ54PVBBIWVK3PFSOIOUJSXIJ5WTNDP.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+    font-style: normal;
+  }
  @media (min-width: 640px) {
   * {
     cursor: none;

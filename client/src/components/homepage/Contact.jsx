@@ -181,7 +181,7 @@ export default function Contact() {
                 <span className="absolute bottom-0 left-0 h-[0.12em] w-0 rounded-full bg-secondary-600 duration-300 ease-in-out group-hover:w-full"></span>
               </a>
               <a
-                href="https://drive.google.com/file/d/1aRhnhQ-G9UOkpJUWGNQApCu05gLXzmmn/view?usp=sharing"
+                href="https://drive.google.com/file/d/1tdwi85R2AnmT4jVWKWgQSlAilN-cSlqd/view?usp=sharing"
                 className="group relative w-fit cursor-pointer"
                 target="_blank"
                 rel="noreferrer"
