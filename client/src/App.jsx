@@ -11,6 +11,7 @@ import Role from "./components/homepage/Role";
 import About from "./components/homepage/About";
 import Services from "./components/homepage/Services";
 import Works from "./components/homepage/Works";
+import Achievements from "./components/homepage/Achievements";
 import Contact from "./components/homepage/Contact";
 import Footer from "./components/ui/Footer";
 import ProjectPage from "./components/ProjectPage";
@@ -65,6 +66,7 @@ const HomePage = () => {
           <About />
           <Services />
           <Works forwardedRef={(el) => (sectionRefs.current[1] = el)} />
+          <Achievements />
           <Contact />
         </main>
         <Footer />
