@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://portfolio-virid-six-33.vercel.app/</loc>
-    <lastmod>2026-02-19</lastmod>
+    <loc>https://portfolio-virid-six-33.vercel.app//</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://portfolio-virid-six-33.vercel.app/projects/signie</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://portfolio-virid-six-33.vercel.app/projects/not-risk</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://portfolio-virid-six-33.vercel.app/projects/evinco</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://portfolio-virid-six-33.vercel.app/projects/smart-extractor</loc>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://portfolio-virid-six-33.vercel.app/projects/circuit-creations</loc>
-    <lastmod>2026-02-19</lastmod>
+    <loc>https://portfolio-virid-six-33.vercel.app//projects/quicklearn-ai</loc>
+    <lastmod>2026-03-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
